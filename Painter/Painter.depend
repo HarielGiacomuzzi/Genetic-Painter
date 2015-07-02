@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1435869475 source:/home/PORTOALEGRE/13104441/Desktop/Genetic-Painter/Painter/GPainter.cpp
+	"painter.h"
+
+1435871726 /home/PORTOALEGRE/13104441/Desktop/Genetic-Painter/Painter/painter.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<vector>
+
+1435869651 source:/home/PORTOALEGRE/13104441/Desktop/Genetic-Painter/Painter/painter.cpp
+	"painter.h"
+
